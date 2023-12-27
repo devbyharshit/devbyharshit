@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQHAeWUxrQsGYA/profile-displaybackgroundimage-shrink_350_1400/0/1667223011983?e=1703116800&v=beta&t=R8xBTSVEaouPQAvgZEQ69ZvNJYg05WiZAlfGdFYseDw)]()
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQHAeWUxrQsGYA/profile-displaybackgroundimage-shrink_350_1400/0/1667223014964?e=1709164800&v=beta&t=9wOeA4Wyys-VeABwLsbxmKtb3IAi8VYHY_SKm8kqWBY)]()
 
 <h2 align="center">A passionate frontend developer from India</h3>
 
