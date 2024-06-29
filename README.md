@@ -25,9 +25,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devbyharshit&show_icons=true&locale=en&layout=compact" alt="devbyharshit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reverb283&show_icons=true&locale=en" alt="reverb283" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devbyharshit&show_icons=true&locale=en" alt="devbyharshit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reverb283&" alt="reverb283" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devbyharshit&" alt="devbyharshit" /></p>
 
 
 <!-- [![An image of @reverb283's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/reverb283)](https://holopin.io/@reverb283) -->
