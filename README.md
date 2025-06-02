@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reverb283&label=Profile%20views&color=0e75b6&style=flat" alt="reverb283" /> </p>
 
-- 🔭 I’m currently working on [pay-vault](https://github.com/devbyharshit/pay-vault)
+- 🔭 I’m currently working on [payvault](https://github.com/devbyharshit/payvault)
 
-- 🌱 I’m currently learning **NodeJS, Python**
+- 🌱 I’m currently learning **Docker, Kubernetes**
 
-- 💬 Ask me about **ReactJS, Javascript, HTML, CSS**
+- 💬 Ask me about **ReactJS, Typescript, Javascript, HTML, CSS**
 
 - 📫 How to reach me **harshitanand283@gmail.com**
 
