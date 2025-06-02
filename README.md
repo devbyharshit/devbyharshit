@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQHAeWUxrQsGYA/profile-displaybackgroundimage-shrink_350_1400/0/1667223014964?e=1723075200&v=beta&t=ffG4vLuQ0mq0JmjFqaA80-fjR-zeRhDVs0fkvkC3Dvg)]()
+[![MasterHead](https://github.com/devbyharshit/devbyharshit/blob/main/assets/banner.jpeg)]()
 
 <h2 align="center">A passionate frontend developer from India</h3>
 
