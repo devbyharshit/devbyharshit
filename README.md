@@ -3,99 +3,95 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Harshit Anand</h1>
-<h3 align="center">Full Stack Engineer • React • Next.js • Node.js • Systems Thinking</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devbyharshit&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;React+%2B+Next.js+Specialist;Node.js+%2B+System+Design;Building+Scalable+Web+Apps" />
+</p>
+
+<p align="center">
+  <a href="https://harshit-anand-codes-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit Now-00C2FF?style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/harshitanand283">
+    <img src="https://img.shields.io/badge/LinkedIn-Harshit%20Anand-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:harshitanand283@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Full Stack Engineer with **5+ years experience**
-- ⚡ Building **scalable, performant web applications**
-- 🧠 Strong focus on **architecture, performance & clean code**
-- 🔭 Currently working on **[PayVault](https://github.com/devbyharshit/payvault)**
-- 🌱 Exploring **Docker, Kubernetes & system design**
-- 💬 Ask me about **React, Next.js, Node.js, TypeScript**
-- 📫 Reach me at **harshitanand283@gmail.com**
+- 💻 Full Stack Engineer with **5+ years of experience**
+- ⚡ Building **scalable, high-performance web applications**
+- 🧠 Focused on **system design, performance & clean architecture**
+- 🔭 Currently building **PayVault**
+- 🌱 Learning **Docker, Kubernetes & distributed systems**
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Portfolio
 
-<p align="center">
-  <a href="https://twitter.com/iamhotshit">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/harshitanand283">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+👉 **Explore my work in detail:**  
+🔗 https://harshit-anand-codes-portfolio.vercel.app/
+
+> Includes projects, case studies, and production-level work.
+
+---
+
+## 🏗️ Featured Work
+
+### 🔐 PayVault
+Secure financial platform designed for scalability & performance
+
+- ⚡ Built with **Next.js + Node.js**
+- 🔐 Designed secure and modular architecture
+- 🚀 Focus on performance and real-world scalability
+
+👉 https://github.com/devbyharshit/payvault
 
 ---
 
 ## 🧠 Tech Stack
 
 ### 🖥️ Frontend
-`React` • `Next.js` • `TypeScript` • `JavaScript` • `Redux` • `HTML` • `CSS` • `Sass`
+`React` • `Next.js` • `TypeScript` • `Redux`
 
 ### ⚙️ Backend
-`Node.js` • `Express` • `REST APIs` • `GraphQL` • `Firebase`
+`Node.js` • `Express` • `GraphQL`
 
-### 🗄️ Databases
+### 🗄️ Database
 `PostgreSQL` • `MySQL` • `Redis`
 
 ### ☁️ DevOps & Infra
-`Docker` • `Kubernetes (learning)` • `CI/CD` • `Nginx` • `Linux`
-
-### 🧰 Tools
-`Git` • `Webpack` • `Postman` • `Bash`
-
-### 🎨 Design
-`Figma` • `Adobe XD` • `Photoshop`
+`Docker` • `Kubernetes (Learning)` • `CI/CD`
 
 ---
 
-## 🏗️ What I Focus On
+## 📊 GitHub Insights
 
-- ⚡ High-performance frontend (Core Web Vitals, rendering optimization)
-- 🔐 Secure and scalable backend architectures
-- 📦 Clean API design & microservices
-- 🧩 Building reusable component systems & design systems
-- 🚀 End-to-end product ownership
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devbyharshit&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devbyharshit&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Current Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devbyharshit&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devbyharshit&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devbyharshit&layout=compact&theme=tokyonight" />
-</p>
+- Scaling full-stack applications
+- Deep diving into system design
+- Building production-grade side projects
 
 ---
 
 ## ⚡ Philosophy
 
-> Build fast. Scale smart. Keep it simple.
-
-I enjoy working across the stack — from crafting polished UIs to designing robust backend systems.
-
----
-
-## 📌 Featured Work
-
-- 🔗 **PayVault** – Secure financial platform (WIP)
-- ⚙️ Scalable frontend architectures & micro-frontends
-- 🚀 Performance optimization projects
+> "Simple scales. Complexity fails."
 
 ---
